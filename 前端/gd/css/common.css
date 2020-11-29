@@ -1,0 +1,113 @@
+.w {
+	width: 1200px;
+	margin: 0 auto;
+}
+.f1{
+	float: left;
+}
+.style_black{
+	color: black;
+}
+.style_green{
+	color: greenyellow;
+}
+.shortcut{
+	height: 31px;
+	line-height: 3px;
+	background-color: grey;
+}
+.shortcut ul li{
+	float: left;
+}
+.logo{
+	
+	width: 120px;
+	height: 31px;
+	background-color: deepskyblue;
+}
+.search{
+	float: left;
+	width: 268px;
+	height: 31px;
+	background-color: pink;
+	margin-left: 550px;
+}
+.search input{
+	float: left;
+	width: 200px;
+	height: 28px;
+	border: 1px solid grey;
+	border-right: 0;
+	color: #bfbfbf;
+	font-size: 14px;
+	padding-left: 15px;
+}
+.search button{
+	float: left;
+	width: 50px;
+	height: 31px;
+	border: 0;
+	background: url(../images/btn.png);
+}
+.denglu button{
+	float: left;
+	width: 50px;
+	height: 31px;
+	border: 0;
+	background: url(../images/den.png);
+	margin-left: 40px;
+}
+.zhuce button{
+	float: left;
+	width: 50px;
+	height: 31px;
+	border: 0;
+	background: url(../images/zhu.png);
+	margin-left: 20px;
+}
+.nav{
+	height: 40px;
+	border-bottom: 2px solid gray;
+}
+.nav .dropdown{
+	float: left;
+	width: 200;
+	height: 41px;
+	background-color: gray;
+	margin-left: 120px;
+}
+.nav .navitems{
+	float: left;
+}
+.dropdown .dt{
+	width: 100%;
+	height: 100%;
+	color: white;
+	text-align: center;
+	line-height: 45px;
+	font-size: 26px;
+}
+.dropdown .dd{
+	width: 210px;
+	height: 465px;
+	background-color: gray;
+}
+.dropdown .dd ul li{
+	height: 61px;
+	line-height: 51px;
+	margin-left: 2px;
+	padding-left: 2px;
+}
+.dropdown .dd ul li:hover{
+	background-color: white;
+}
+.dropdown .dd ul li a{
+	font-size: 24px;
+	color: white;
+}
+.dropdown .dd ul li:hover a{
+	color: gray;
+}
+
+
+
